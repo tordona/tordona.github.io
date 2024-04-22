@@ -1,0 +1,6 @@
+@import 'jekyll-theme-hacker';
+
+header h1:before {
+    content: '';
+    display: none;
+}
