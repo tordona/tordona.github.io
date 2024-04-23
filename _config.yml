@@ -1,8 +1,7 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
-show_downloads: false
-title: Terence Ordona - random developer,description: Building and compiling open source software for native Windows on Arm,
+show_downloads: false,
 title: Terence Ordona - random developer,
 description: Building and compiling open source software for native Windows on Arm,
 url: 'https://github.com/tordona'
