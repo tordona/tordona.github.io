@@ -5,9 +5,7 @@ A multi-system chiptune tracker compatible with DefleMask modules. Supports near
 [https://github.com/tordona/furnace/releases](https://github.com/tordona/furnace/releases)  
 
 #### Official links
-Website: [https://tildearrow.org/furnace](https://tildearrow.org/furnace)  
-Repo: [https://github.com/tildearrow/furnace](https://github.com/tildearrow/furnace)  
-Releases: [https://github.com/tildearrow/furnace/releases](https://github.com/tildearrow/furnace/releases)  
+[Website](https://tildearrow.org/furnace) **|** [Repo](https://github.com/tildearrow/furnace) **|** [Releases](https://github.com/tildearrow/furnace/releases)  
 
 ---
 
@@ -18,6 +16,4 @@ MilkyTracker is an open source, multi-platform music application for creating .M
 [https://github.com/tordona/milkytracker/releases](https://github.com/tordona/milkytracker/releases)  
 
 #### Official links
-Website: [https://milkytracker.org/ ](https://milkytracker.org/ )  
-Repo: [https://github.com/milkytracker/MilkyTracker ](https://github.com/milkytracker/MilkyTracker )  
-Releases: [https://github.com/milkytracker/MilkyTracker/releases](https://github.com/milkytracker/MilkyTracker/releases)  
+[Website](https://milkytracker.org/) **|** [Repo](https://github.com/milkytracker/MilkyTracker) **|** [Releases](https://github.com/milkytracker/MilkyTracker)   
