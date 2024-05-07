@@ -1,6 +1,8 @@
 ## darktable
 A photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
 
+![darktable](https://github.com/tordona/tordona.github.io/assets/1671976/6735d381-2c2c-48fb-b478-7669c0b9c4ec)
+
 #### Unofficial Builds: Windows ARM64
 [https://github.com/tordona/darktable/releases](https://github.com/tordona/darktable/releases)  
 
