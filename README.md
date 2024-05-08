@@ -4,7 +4,7 @@ RawTherapee is a powerful, cross-platform raw photo processing system, released 
 RawTherapee provides a powerful suite of tools for you to produce amazing photos and showcase your creativity.  
 
 #### Screenshot
-[![](/assets/images/screenshots/rawthreappe-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/rawthreapee.png)  
+[![](/assets/images/screenshots/rawthreapee-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/rawthreapee.png)  
 
 #### Unofficial Builds: Windows ARM64
 [https://github.com/tordona/rawtherapee/releases](https://github.com/tordona/rawtherapee/releases)  
