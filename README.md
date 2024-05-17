@@ -28,17 +28,17 @@ Cross-platform bitmap image drawing and editing program inspired by Paint.NET, a
 
 ---
 
-## Pinta
-Cross-platform bitmap image drawing and editing program inspired by Paint.NET, a similar image editing program which is limited to Microsoft Windows. Pinta has more features than Microsoft Paint. Compared with open-source image editor GIMP, Pinta is simpler and has fewer features.
+## LibreSprite
+LibreSprite is a free and open source program for creating and animating your sprites. Real-time animation previews. Onion skinning. Multiple sprites can be edited at once. Ready to use palettes, or make your own. Sprites are composed of both layers & frames and more...  
 
 #### Screenshot
-[![](/assets/images/screenshots/pinta-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/pinta.png)  
+[![](/assets/images/screenshots/libresprite-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/libresprite.png)  
 
 #### Unofficial Builds: Windows ARM64
-[https://github.com/tordona/pinta/releases](https://github.com/tordona/pinta/releases)  
+[https://github.com/tordona/libresprite/releases](https://github.com/tordona/libresprite/releases)  
 
 #### Official links
-[Website](https://www.pinta-project.com/) **|** [Releases](https://www.pinta-project.com/releases/) **|** [Repo](https://github.com/PintaProject/Pinta)  
+[Website](https://libresprite.github.io/) **|** [Releases](https://libresprite.github.io/#!/downloads) **|** [Repo](https://github.com/LibreSprite/LibreSprite)  
 
 ---
 
