@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 show_downloads: false
 title: Terence Ordona - random developer
-description: Building and compiling open source software for native Windows on Arm
+description: OSS Unofficial Builds for Windows on Arm
 url: 'https://github.com/tordona'
