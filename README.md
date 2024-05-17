@@ -1,10 +1,54 @@
+# Unofficial Builds for Windows ARM64
+
+## PixiEditor
+A free pixel art editing software. Create beautiful sprites for your games and edit images. All packed in an eye-friendly dark theme.
+
+#### Screenshot
+[![](/assets/images/screenshots/pixieditor-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/pixieditor.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/pixieditor/releases](https://github.com/tordona/pixieditor/releases)  
+
+#### Official links
+[Website](https://pixieditor.net/) **|** [Releases](https://pixieditor.net/download) **|** [Repo](https://github.com/PixiEditor/PixiEditor)  
+
+---
+
+## Pinta
+Cross-platform bitmap image drawing and editing program inspired by Paint.NET, a similar image editing program which is limited to Microsoft Windows. Pinta has more features than Microsoft Paint. Compared with open-source image editor GIMP, Pinta is simpler and has fewer features.
+
+#### Screenshot
+[![](/assets/images/screenshots/pinta-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/pinta.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/pinta/releases](https://github.com/tordona/pinta/releases)  
+
+#### Official links
+[Website](https://www.pinta-project.com/) **|** [Releases](https://www.pinta-project.com/releases/) **|** [Repo](https://github.com/PintaProject/Pinta)  
+
+---
+
+## Pinta
+Cross-platform bitmap image drawing and editing program inspired by Paint.NET, a similar image editing program which is limited to Microsoft Windows. Pinta has more features than Microsoft Paint. Compared with open-source image editor GIMP, Pinta is simpler and has fewer features.
+
+#### Screenshot
+[![](/assets/images/screenshots/pinta-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/pinta.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/pinta/releases](https://github.com/tordona/pinta/releases)  
+
+#### Official links
+[Website](https://www.pinta-project.com/) **|** [Releases](https://www.pinta-project.com/releases/) **|** [Repo](https://github.com/PintaProject/Pinta)  
+
+---
+
 ## RawTherapee
 RawTherapee is a powerful, cross-platform raw photo processing system, released as Free Software (GPLv3). It is designed for developing raw files from a broad range of digital cameras and targeted at users ranging from enthusiast newcomers who wish to broaden their understanding of how digital imaging works to professional photographers.  
 
 RawTherapee provides a powerful suite of tools for you to produce amazing photos and showcase your creativity.  
 
 #### Screenshot
-[![](/assets/images/screenshots/rawthreapee-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/rawthreapee.png)  
+[![](/assets/images/screenshots/rawthreapee-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/rawtherapee.png)  
 
 #### Unofficial Builds: Windows ARM64
 [https://github.com/tordona/rawtherapee/releases](https://github.com/tordona/rawtherapee/releases)  
