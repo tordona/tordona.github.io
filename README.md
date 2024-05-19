@@ -72,13 +72,27 @@ A photography workflow application and raw developer. A virtual lighttable and d
 
 ---
 
+## FamiStudio
+FamiStudio is a simple music editor for the Nintendo Entertainment System or Famicom. Available on multiple platforms, it is targeted at both chiptune artists and NES homebrewers.
+
+#### Screenshot
+[![](/assets/images/screenshots/famistudio-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/famistudio.png)  
+  
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/famistudio/releases](https://github.com/tordona/famistudio/releases)  
+
+#### Official links
+[Website](https://famistudio.org/) **|** [Repo](https://github.com/BleuBleu/FamiStudio) **|** [Releases](https://github.com/BleuBleu/FamiStudio/releases)  
+
+---
+
 ## Furnance
 A multi-system chiptune tracker compatible with DefleMask modules. Supports nearly every old-school 8-bit/16-bit system. From the Atari 2600 and Commodore PET to SNES, Genesis and arcades.  
 
 #### Screenshot
 [![](/assets/images/screenshots/furnace-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/furnace.png)  
   
-#### Unofficial Builds
+#### Unofficial Builds: Windows ARM64
 [https://github.com/tordona/furnace/releases](https://github.com/tordona/furnace/releases)  
 
 #### Official links
@@ -92,7 +106,7 @@ MilkyTracker is an open source, multi-platform music application for creating .M
 #### Screenshot
 [![](/assets/images/screenshots/milkytracker-thumb.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/milkytracker.png)  
 
-#### Unofficial Builds
+#### Unofficial Builds: Windows ARM64
 [https://github.com/tordona/milkytracker/releases](https://github.com/tordona/milkytracker/releases)  
 
 #### Official links
