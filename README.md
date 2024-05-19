@@ -28,17 +28,17 @@ Cross-platform bitmap image drawing and editing program inspired by Paint.NET, a
 
 ---
 
-## Pinta
-Cross-platform bitmap image drawing and editing program inspired by Paint.NET, a similar image editing program which is limited to Microsoft Windows. Pinta has more features than Microsoft Paint. Compared with open-source image editor GIMP, Pinta is simpler and has fewer features.
+## LibreSprite
+LibreSprite is a free and open source program for creating and animating your sprites. Real-time animation previews. Onion skinning. Multiple sprites can be edited at once. Ready to use palettes, or make your own. Sprites are composed of both layers & frames and more...  
 
 #### Screenshot
-[![](/assets/images/screenshots/pinta-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/pinta.png)  
+[![](/assets/images/screenshots/libresprite-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/libresprite.png)  
 
 #### Unofficial Builds: Windows ARM64
-[https://github.com/tordona/pinta/releases](https://github.com/tordona/pinta/releases)  
+[https://github.com/tordona/libresprite/releases](https://github.com/tordona/libresprite/releases)  
 
 #### Official links
-[Website](https://www.pinta-project.com/) **|** [Releases](https://www.pinta-project.com/releases/) **|** [Repo](https://github.com/PintaProject/Pinta)  
+[Website](https://libresprite.github.io/) **|** [Releases](https://libresprite.github.io/#!/downloads) **|** [Repo](https://github.com/LibreSprite/LibreSprite)  
 
 ---
 
@@ -72,13 +72,27 @@ A photography workflow application and raw developer. A virtual lighttable and d
 
 ---
 
+## FamiStudio
+FamiStudio is a simple music editor for the Nintendo Entertainment System or Famicom. Available on multiple platforms, it is targeted at both chiptune artists and NES homebrewers.
+
+#### Screenshot
+[![](/assets/images/screenshots/famistudio-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/famistudio.png)  
+  
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/famistudio/releases](https://github.com/tordona/famistudio/releases)  
+
+#### Official links
+[Website](https://famistudio.org/) **|** [Repo](https://github.com/BleuBleu/FamiStudio) **|** [Releases](https://github.com/BleuBleu/FamiStudio/releases)  
+
+---
+
 ## Furnance
 A multi-system chiptune tracker compatible with DefleMask modules. Supports nearly every old-school 8-bit/16-bit system. From the Atari 2600 and Commodore PET to SNES, Genesis and arcades.  
 
 #### Screenshot
 [![](/assets/images/screenshots/furnace-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/furnace.png)  
   
-#### Unofficial Builds
+#### Unofficial Builds: Windows ARM64
 [https://github.com/tordona/furnace/releases](https://github.com/tordona/furnace/releases)  
 
 #### Official links
@@ -92,7 +106,7 @@ MilkyTracker is an open source, multi-platform music application for creating .M
 #### Screenshot
 [![](/assets/images/screenshots/milkytracker-thumb.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/milkytracker.png)  
 
-#### Unofficial Builds
+#### Unofficial Builds: Windows ARM64
 [https://github.com/tordona/milkytracker/releases](https://github.com/tordona/milkytracker/releases)  
 
 #### Official links
