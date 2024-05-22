@@ -12,6 +12,8 @@ Glaxnimate is a powerful and user-friendly desktop application for vector animat
 #### Official links
 [Website](https://glaxnimate.mattbas.org/) **|** [Releases](https://glaxnimate.mattbas.org/download/#stable-releases) **|** [Repo](https://gitlab.com/mattbas/glaxnimate)  
 
+---
+
 ## PixiEditor
 A free pixel art editing software. Create beautiful sprites for your games and edit images. All packed in an eye-friendly dark theme.
 
