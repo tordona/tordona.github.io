@@ -1,5 +1,17 @@
 # Unofficial Builds for Windows ARM64
 
+## Glaxnimate
+Glaxnimate is a powerful and user-friendly desktop application for vector animation and motion design. It focuses on Lottie and SVG and provides an intuitive interface that makes it easy to create stunning animations.
+
+#### Screenshot
+[![](/assets/images/screenshots/glaxnimate-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/glaxnimate.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/glaxnimate/releases](https://github.com/tordona/glaxnimate/releases)  
+
+#### Official links
+[Website](https://glaxnimate.mattbas.org/) **|** [Releases](https://glaxnimate.mattbas.org/download/#stable-releases) **|** [Repo](https://gitlab.com/mattbas/glaxnimate)  
+
 ## PixiEditor
 A free pixel art editing software. Create beautiful sprites for your games and edit images. All packed in an eye-friendly dark theme.
 
