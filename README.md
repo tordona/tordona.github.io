@@ -1,5 +1,38 @@
 # Unofficial Builds for Windows ARM64
 
+---
+
+## Snes9X
+Snes9x is a portable Super Nintendo Entertainment System emulator. It has a high compatibility with games and is a good choice if your PC isn't fast enough to run higan. Ports and forks of Snes9x exist for many platforms.
+
+###
+[![](/assets/images/screenshots/snes9x.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/snes9x.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/snes9x/releases](https://github.com/tordona/snes9x/releases)  
+
+#### Readme
+[https://github.com/tordona/snes9x/blob/rel-1.62.3/README.md](https://github.com/tordona/snes9x/blob/rel-1.62.3/README.md)
+
+#### Official links
+[Forum](https://www.snes9x.com/phpbb3/) **|** [Releases](https://github.com/snes9xgit/snes9x/releases) **|** [Repo](https://github.com/snes9xgit/snes9x)  
+
+---
+
+## Shotcut
+Shotcut supports video, audio, and image formats via FFmpeg, with an integrated timeline for non-linear video editing of multiple tracks that may be composed of various file formats.
+
+###
+[![](/assets/images/screenshots/shotcut-thumb.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/shotcut.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/shotcut/releases](https://github.com/tordona/shotcut/releases)  
+
+#### Official links
+[Website](https://www.shotcut.org/) **|** [Releases](https://www.shotcut.org/download/) **|** [Repo](https://github.com/mltframework/shotcut)  
+
+---
+
 ## Glaxnimate
 Glaxnimate is a powerful and user-friendly desktop application for vector animation and motion design. It focuses on Lottie and SVG and provides an intuitive interface that makes it easy to create stunning animations.
 
