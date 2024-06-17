@@ -5,7 +5,7 @@
 ## Snes9X
 Snes9x is a portable Super Nintendo Entertainment System emulator. It has a high compatibility with games and is a good choice if your PC isn't fast enough to run higan. Ports and forks of Snes9x exist for many platforms.
 
-###
+#### Screenshot
 [![](/assets/images/screenshots/snes9x.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/snes9x.png)  
 
 #### Unofficial Builds: Windows ARM64
@@ -22,7 +22,7 @@ Snes9x is a portable Super Nintendo Entertainment System emulator. It has a high
 ## Shotcut
 Shotcut supports video, audio, and image formats via FFmpeg, with an integrated timeline for non-linear video editing of multiple tracks that may be composed of various file formats.
 
-###
+#### Screenshot
 [![](/assets/images/screenshots/shotcut-thumb.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/shotcut.png)  
 
 #### Unofficial Builds: Windows ARM64
