@@ -1,6 +1,20 @@
-@import 'jekyll-theme-hacker';
+@import "{{ site.theme }}";
 
-header h1:before {
-    content: '';
-    display: none;
+section {
+	width: 740px
+}
+nav {
+    width: 230px;
+    position: absolute;
+    top: 0;
+    left: -250px;
+    text-align: right;
+}
+footer {
+	width: 230px;
+    position: fixed;
+    left: calc(50% - 120px);
+    margin-left: -530px;
+    bottom: 20px;
+    text-align: right;
 }

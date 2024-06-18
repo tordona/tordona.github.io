@@ -1,7 +1,5 @@
 # Unofficial Builds for Windows ARM64
 
----
-
 ## Snes9X
 Snes9x is a portable Super Nintendo Entertainment System emulator. It has a high compatibility with games and is a good choice if your PC isn't fast enough to run higan. Ports and forks of Snes9x exist for many platforms.
 
