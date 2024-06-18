@@ -2,7 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-
+body {
+    background: #eae6d1;
+}
 #banner {
     width: 100%;
     #logo {
@@ -13,11 +15,14 @@ section {
 	width: 740px;
 }
 nav {
+    background: #eae6d1;
     width: 230px;
     position: absolute;
     left: calc(50% - 575px);
     text-align: right;
     margin: 0;
+    top: 0;
+    z-index: 10;
     .tag-h1 {
         display: none;
     }
