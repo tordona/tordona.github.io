@@ -3,21 +3,30 @@
 
 @import "{{ site.theme }}";
 
+#banner {
+    width: 100%;
+    #logo {
+        display: none;
+    }
+}
 section {
 	width: 740px;
 }
 nav {
     width: 230px;
     position: absolute;
-    top: 0;
-    left: -250px;
+    left: calc(50% - 575px);
     text-align: right;
+    margin: 0;
+    .tag-h1 {
+        display: none;
+    }
 }
 footer {
-	width: 230px;
+    width: 230px;
     position: fixed;
-    left: calc(50% - 120px);
-    margin-left: -530px;
+    left: calc(50% - 575px);
     bottom: 20px;
     text-align: right;
+    margin: 0;
 }
