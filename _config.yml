@@ -5,3 +5,4 @@ show_downloads: false
 title: Terence Ordona - frontend developer
 description: OSS Unofficial Builds for Windows on Arm
 url: 'https://github.com/tordona'
+google_analytics: true
