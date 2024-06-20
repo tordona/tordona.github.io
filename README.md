@@ -1,6 +1,8 @@
 # Unofficial Builds for Windows ARM64
 
-## Snes9X
+## Emulators
+
+### Snes9X
 Snes9x is a portable Super Nintendo Entertainment System emulator. It has a high compatibility with games and is a good choice if your PC isn't fast enough to run higan. Ports and forks of Snes9x exist for many platforms.
 
 #### Screenshot
@@ -17,6 +19,8 @@ Snes9x is a portable Super Nintendo Entertainment System emulator. It has a high
 
 ---
 
+## Video Editors
+
 ## Shotcut
 Shotcut supports video, audio, and image formats via FFmpeg, with an integrated timeline for non-linear video editing of multiple tracks that may be composed of various file formats.
 
@@ -31,7 +35,9 @@ Shotcut supports video, audio, and image formats via FFmpeg, with an integrated 
 
 ---
 
-## Glaxnimate
+## Animation
+
+### Glaxnimate
 Glaxnimate is a powerful and user-friendly desktop application for vector animation and motion design. It focuses on Lottie and SVG and provides an intuitive interface that makes it easy to create stunning animations.
 
 #### Screenshot
@@ -45,7 +51,9 @@ Glaxnimate is a powerful and user-friendly desktop application for vector animat
 
 ---
 
-## PixiEditor
+## Graphics
+
+### PixiEditor
 A free pixel art editing software. Create beautiful sprites for your games and edit images. All packed in an eye-friendly dark theme.
 
 #### Screenshot
@@ -57,9 +65,7 @@ A free pixel art editing software. Create beautiful sprites for your games and e
 #### Official links
 [Website](https://pixieditor.net/) **|** [Releases](https://pixieditor.net/download) **|** [Repo](https://github.com/PixiEditor/PixiEditor)  
 
----
-
-## Pinta
+### Pinta
 Cross-platform bitmap image drawing and editing program inspired by Paint.NET, a similar image editing program which is limited to Microsoft Windows. Pinta has more features than Microsoft Paint. Compared with open-source image editor GIMP, Pinta is simpler and has fewer features.
 
 #### Screenshot
@@ -71,9 +77,7 @@ Cross-platform bitmap image drawing and editing program inspired by Paint.NET, a
 #### Official links
 [Website](https://www.pinta-project.com/) **|** [Releases](https://www.pinta-project.com/releases/) **|** [Repo](https://github.com/PintaProject/Pinta)  
 
----
-
-## LibreSprite
+### LibreSprite
 LibreSprite is a free and open source program for creating and animating your sprites. Real-time animation previews. Onion skinning. Multiple sprites can be edited at once. Ready to use palettes, or make your own. Sprites are composed of both layers & frames and more...  
 
 #### Screenshot
@@ -87,7 +91,9 @@ LibreSprite is a free and open source program for creating and animating your sp
 
 ---
 
-## RawTherapee
+## Photo
+
+### RawTherapee
 RawTherapee is a powerful, cross-platform raw photo processing system, released as Free Software (GPLv3). It is designed for developing raw files from a broad range of digital cameras and targeted at users ranging from enthusiast newcomers who wish to broaden their understanding of how digital imaging works to professional photographers.  
 
 RawTherapee provides a powerful suite of tools for you to produce amazing photos and showcase your creativity.  
@@ -101,9 +107,7 @@ RawTherapee provides a powerful suite of tools for you to produce amazing photos
 #### Official links
 [Website](https://www.rawtherapee.com/) **|** [Releases](https://www.rawtherapee.com/downloads/) **|** [Repo](https://github.com/Beep6581/RawTherapee)  
 
----
-
-## darktable
+### darktable
 A photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
 
 #### Screenshot
@@ -116,8 +120,9 @@ A photography workflow application and raw developer. A virtual lighttable and d
 [Website](https://www.darktable.org/) **|** [Repo](https://github.com/darktable-org/darktable) **|** [Releases](https://www.darktable.org/install/)  
 
 ---
+## Trackers
 
-## FamiStudio
+### FamiStudio
 FamiStudio is a simple music editor for the Nintendo Entertainment System or Famicom. Available on multiple platforms, it is targeted at both chiptune artists and NES homebrewers.
 
 #### Screenshot
@@ -129,9 +134,7 @@ FamiStudio is a simple music editor for the Nintendo Entertainment System or Fam
 #### Official links
 [Website](https://famistudio.org/) **|** [Repo](https://github.com/BleuBleu/FamiStudio) **|** [Releases](https://github.com/BleuBleu/FamiStudio/releases)  
 
----
-
-## Furnance
+### Furnance
 A multi-system chiptune tracker compatible with DefleMask modules. Supports nearly every old-school 8-bit/16-bit system. From the Atari 2600 and Commodore PET to SNES, Genesis and arcades.  
 
 #### Screenshot
@@ -143,9 +146,7 @@ A multi-system chiptune tracker compatible with DefleMask modules. Supports near
 #### Official links
 [Website](https://tildearrow.org/furnace) **|** [Repo](https://github.com/tildearrow/furnace) **|** [Releases](https://github.com/tildearrow/furnace/releases)  
 
----
-
-## MilkyTracker
+### MilkyTracker
 MilkyTracker is an open source, multi-platform music application for creating .MOD and .XM module files. It attempts to recreate the module replay and user experience of the popular DOS program Fasttracker II, with special playback modes available for improved Amiga ProTracker 2/3 compatibility.  
 
 #### Screenshot

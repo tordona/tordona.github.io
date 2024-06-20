@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme
 show_downloads: false
 title: Terence Ordona - frontend developer
-description: OSS Unofficial Builds for Windows on Arm
+description: OSS Unofficial Builds for Windows on Arm - ARM64
 url: 'https://github.com/tordona'
 google_analytics: true
