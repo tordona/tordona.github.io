@@ -7,6 +7,18 @@ Software is tested on physical hardware:
 * Samsung Galaxy Book Go 5G (Snapdragon 8cx Gen 2)
 * Samsung Galaxy Book Go (Snapdragon 7c Gen 2)
 
+**Sponsorship / Donations**  
+Please consider sponsorship or hardware donations. These will go to hardware for additional testing and development
+
+Future hardware:
+* Any Device (Snapdragon 7c)
+* Any Device (Snapdragon 850)
+* Any Device (Snapdragon Plus)
+* Any Device (Snapdragon Elite)
+* Samsung Galaxy Book 2 Go (Snapdragon 7c+ Gen 3)
+* Lenovo Flex 5g (Snapdragon 8cx)
+* Microsoft Surface (SQ1 / SQ2 / SQ3)
+
 ## Emulators
 
 ### AppleWin
