@@ -2,7 +2,7 @@ remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme
 show_downloads: false
-title: Terence Ordona - frontend developer
+title: Terence Ordona
 description: OSS Unofficial Builds for Windows on Arm - ARM64
 url: 'https://github.com/tordona'
 google_analytics: true
