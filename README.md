@@ -8,7 +8,7 @@ Software is tested on physical hardware:
 * Samsung Galaxy Book Go (Snapdragon 7c Gen 2)
 
 **Sponsorship / Donations**  
-Please consider sponsorship or hardware donations. These will go to hardware for additional testing and development
+Please consider sponsorship or hardware donations. These will go to hardware for additional testing and development.
 
 Future hardware:
 * Any Device (Snapdragon 7c)
@@ -33,17 +33,17 @@ AppleWin is a fully-featured emulator supporting different Apple II models and c
 #### Official links
 [Releases](https://github.com/AppleWin/AppleWin/releases) **|** [Repo](https://github.com/AppleWin/AppleWin)
 
-### Stella
-Stella is a multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
+### ArcEm
+ArcEm is a portable open-source emulator for the Acorn Archimedes. It's capable of running multiple operating systems including RISC OS and ARM Linux. ArcEm runs on Amiga OS, Mac OS X, Microsoft Windows, RISC OS, Unix (X Windows)
 
 #### Screenshot
-[![](/assets/images/screenshots/stella.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/stella.png)  
+[![](/assets/images/screenshots/arcem.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/arcem.png)  
 
 #### Unofficial Builds: Windows ARM64
-[https://github.com/tordona/stella/releases](https://github.com/tordona/stella/releases)  
+[https://github.com/tordona/win-arm64-binaries/releases/tag/arcem](https://github.com/tordona/win-arm64-binaries/releases/tag/arcem)
 
 #### Official links
-[Website](https://stella-emu.github.io/) **|** [Releases](https://github.com/stella-emu/stella/releases) **|** [Repo](https://github.com/stella-emu/stella)
+[Website[(https://arcem.sourceforge.net/) **|**  [Releases](https://sourceforge.net/projects/arcem/files/arcem/1.50/) **|** [Repo](https://github.com/ArcEm-emu/ArcEm)
 
 ### NanoBoyAdvance
 NanoBoyAdvance is a cycle-accurate Game Boy Advance emulator. It aims to be as accurate as possible, while also offering enhancements such as improved audio quality.
@@ -56,6 +56,18 @@ NanoBoyAdvance is a cycle-accurate Game Boy Advance emulator. It aims to be as a
 
 #### Official links
 [Releases](https://github.com/nba-emu/nanoboyadvance/releases) **|** [Repo](https://github.com/nba-emu/nanoboyadvance)  
+
+### Nintendulator
+Nintendulator is an open source Win32 NES emulator written in C++. The original goal was to emulate the NES down to its hardware quirks, and while it's not 100% perfect, it does emulate a variety of special cases that most other emulators neglect to handle. However, this emulation precision comes at a price - a 1500MHz (estimated) or faster CPU is required to emulate at full speed.
+
+#### Screenshot
+[![](/assets/images/screenshots/nintendulator.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/nintendulator.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/nintendulator/releases](https://github.com/tordona/nintendulator/releases)
+
+#### Official links
+[Website](https://www.qmtpro.com/~nes/nintendulator/) **|** [Releases](https://www.qmtpro.com/~nes/nintendulator/#downloads) **|** [Repo](https://github.com/quietust/nintendulator)
 
 ### Snes9X
 Snes9x is a portable Super Nintendo Entertainment System emulator. It has a high compatibility with games and is a good choice if your PC isn't fast enough to run higan. Ports and forks of Snes9x exist for many platforms.
@@ -71,6 +83,18 @@ Snes9x is a portable Super Nintendo Entertainment System emulator. It has a high
 
 #### Official links
 [Forum](https://www.snes9x.com/phpbb3/) **|** [Releases](https://github.com/snes9xgit/snes9x/releases) **|** [Repo](https://github.com/snes9xgit/snes9x)  
+
+### Stella
+Stella is a multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
+
+#### Screenshot
+[![](/assets/images/screenshots/stella.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/stella.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/stella/releases](https://github.com/tordona/stella/releases)  
+
+#### Official links
+[Website](https://stella-emu.github.io/) **|** [Releases](https://github.com/stella-emu/stella/releases) **|** [Repo](https://github.com/stella-emu/stella)
 
 ---
 
