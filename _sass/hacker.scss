@@ -2,3 +2,30 @@
 //     @import "{{ site.theme }}";
 // Then using this theme with jekyll-remote-theme will work fine.
 @import "jekyll-theme-hacker";
+
+html, body {
+    font-size: 16px;
+}
+
+section {
+    ul {
+        list-style-image: none;
+    }
+}
+li {
+    .tag-h2 a {
+      :hover {
+        text-decoration: underline;
+      }
+      ::after {
+        content: "\276F";
+        display: inline-block;
+        padding: 0 0 0 5px;
+      }  
+    }
+    .tag-h3 a {
+      :hover {
+        text-decoration: underline;
+      }
+    }
+  }

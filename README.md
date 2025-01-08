@@ -9,6 +9,18 @@ Software is tested on physical hardware:
 
 ## Emulators
 
+### AppleWin
+AppleWin is a fully-featured emulator supporting different Apple II models and clones. A variety of peripheral cards and video display modes are supported (eg. NTSC, RGB); and there's an extensive built-in symbolic debugger.
+
+#### Screenshot
+[![](/assets/images/screenshots/applewin-thumb.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/applewin.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/applewin/releases](https://github.com/tordona/applewin/releases)
+
+#### Official links
+[Releases](https://github.com/AppleWin/AppleWin/releases) **|** [Repo](https://github.com/AppleWin/AppleWin)
+
 ### Stella
 Stella is a multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
 
@@ -19,8 +31,7 @@ Stella is a multi-platform Atari 2600 VCS emulator which allows you to play all 
 [https://github.com/tordona/stella/releases](https://github.com/tordona/stella/releases)  
 
 #### Official links
-[Website](https://stella-emu.github.io/) **|** [Releases](https://github.com/stella-emu/stellareleases) **|** [Repo](https://github.com/stella-emu/stella)  
-
+[Website](https://stella-emu.github.io/) **|** [Releases](https://github.com/stella-emu/stella/releases) **|** [Repo](https://github.com/stella-emu/stella)
 
 ### NanoBoyAdvance
 NanoBoyAdvance is a cycle-accurate Game Boy Advance emulator. It aims to be as accurate as possible, while also offering enhancements such as improved audio quality.
