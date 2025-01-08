@@ -266,3 +266,21 @@ a {
 #a-title {
   text-decoration: none;
 }
+
+li {
+  .tag-h2 {
+    :hover {
+      text-decoration: underline;
+    }
+    ::after {
+      content: "\276F";
+      display: inline-block;
+      padding: 0 0 0 5px;
+    }  
+  }
+  .tag-h3 {
+    :hover {
+      text-decoration: underline;
+    }
+  }
+}

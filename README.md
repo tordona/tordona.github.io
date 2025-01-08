@@ -1,6 +1,38 @@
 # Unofficial Builds for Windows ARM64
+A collection of open source software, compiled as native ARM64 binaries for Windows 11+. Focused on retro gaming: console emulation, system emulation, chip tune trackers, pixel editors, and more.
+
+Software is tested on physical hardware:
+* Lenovo Thinkpad X13s Gen 1 (Snapdragon 8cx Gen 3)
+* Dell Inspiron 14 3420  (Snapdragon 8cx Gen 2)
+* Samsung Galaxy Book Go 5G (Snapdragon 8cx Gen 2)
+* Samsung Galaxy Book Go (Snapdragon 7c Gen 2)
 
 ## Emulators
+
+### Stella
+Stella is a multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
+
+#### Screenshot
+[![](/assets/images/screenshots/stella.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/stella.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/stella/releases](https://github.com/tordona/stella/releases)  
+
+#### Official links
+[Website](https://stella-emu.github.io/) **|** [Releases](https://github.com/stella-emu/stellareleases) **|** [Repo](https://github.com/stella-emu/stella)  
+
+
+### NanoBoyAdvance
+NanoBoyAdvance is a cycle-accurate Game Boy Advance emulator. It aims to be as accurate as possible, while also offering enhancements such as improved audio quality.
+
+#### Screenshot
+[![](/assets/images/screenshots/nanoboyadvance.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/nanoboyadvance.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/nanoboyadvance/releases](https://github.com/tordona/nanoboyadvance/releases)  
+
+#### Official links
+[Releases](https://github.com/nba-emu/nanoboyadvance/releases) **|** [Repo](https://github.com/nba-emu/nanoboyadvance)  
 
 ### Snes9X
 Snes9x is a portable Super Nintendo Entertainment System emulator. It has a high compatibility with games and is a good choice if your PC isn't fast enough to run higan. Ports and forks of Snes9x exist for many platforms.
@@ -16,22 +48,6 @@ Snes9x is a portable Super Nintendo Entertainment System emulator. It has a high
 
 #### Official links
 [Forum](https://www.snes9x.com/phpbb3/) **|** [Releases](https://github.com/snes9xgit/snes9x/releases) **|** [Repo](https://github.com/snes9xgit/snes9x)  
-
----
-
-## Video Editors
-
-## Shotcut
-Shotcut supports video, audio, and image formats via FFmpeg, with an integrated timeline for non-linear video editing of multiple tracks that may be composed of various file formats.
-
-#### Screenshot
-[![](/assets/images/screenshots/shotcut-thumb.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/shotcut.png)  
-
-#### Unofficial Builds: Windows ARM64
-[https://github.com/tordona/shotcut/releases](https://github.com/tordona/shotcut/releases)  
-
-#### Official links
-[Website](https://www.shotcut.org/) **|** [Releases](https://www.shotcut.org/download/) **|** [Repo](https://github.com/mltframework/shotcut)  
 
 ---
 
