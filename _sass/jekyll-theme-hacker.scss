@@ -268,7 +268,7 @@ a {
 }
 
 li {
-  .tag-h2 {
+  .tag-h2 a {
     :hover {
       text-decoration: underline;
     }
@@ -278,7 +278,7 @@ li {
       padding: 0 0 0 5px;
     }  
   }
-  .tag-h3 {
+  .tag-h3 a {
     :hover {
       text-decoration: underline;
     }
