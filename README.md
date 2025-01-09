@@ -45,6 +45,30 @@ ArcEm is a portable open-source emulator for the Acorn Archimedes. It's capable 
 #### Official links
 [Website[(https://arcem.sourceforge.net/) **|**  [Releases](https://sourceforge.net/projects/arcem/files/arcem/1.50/) **|** [Repo](https://github.com/ArcEm-emu/ArcEm)
 
+### FBNeo
+FBNeo, or FinalBurn Neo, is a multi-system arcade emulator designed for retro gaming enthusiasts. It emulates a wide range of classic arcade games and consoles, such as Capcom CPS-1, CPS-2, CPS-3, Neo Geo, and Sega System 16, among others. FBNeo focuses on accurate emulation and high performance, supporting advanced features like netplay, rewinding, and shader effects. It's a continuation of the FinalBurn and FinalBurn Alpha projects, aiming to provide a comprehensive and user-friendly platform for preserving and enjoying vintage games on modern systems.
+
+#### Screenshot
+[![](/assets/images/screenshots/fbneo.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/fbneo-thumb.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/fbneo/releases](https://github.com/tordona/fbneo/releases)  
+
+#### Official links
+[Forums](https://neo-source.com/) **|** [Releases](https://github.com/finalburnneo/FBNeo/releases) **|** [Repo](https://github.com/finalburnneo/FBNeo)
+
+### Frodo
+Frodo is a portable Commodore 64 emulator that runs on a variety of platforms, with a focus on the exact reproduction of special graphical effects possible on the C64. It was also the world's first Commodore 64 emulator without a “64” in its name. Frodo comes in two flavours: The regular “Frodo” which uses a cycle-exact emulation, and the simplified “Frodo Lite” which is less compatible but runs better on slower machines. 
+
+#### Screenshot
+[![](/assets/images/screenshots/frodo.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/frodo-thumb.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/frodo4/releases](https://github.com/tordona/frodo4/releases)  
+
+#### Official links
+[Forums](https://frodo.cebix.net/) **|** [Releases](https://github.com/cebix/frodo4/releases) **|** [Repo](https://github.com/cebix/frodo4)
+
 ### Hades
 Hades is a fully functional emulator for the Nintendo Game Boy Advance. It aims to have a decent balance between speed, usability and accuracy. Hades features multiple post-rendering effects for a better experience, including color correction and an LCD grid effect.
 
@@ -128,17 +152,17 @@ Glaxnimate is a powerful and user-friendly desktop application for vector animat
 
 ## Graphics
 
-### PixiEditor
-A free pixel art editing software. Create beautiful sprites for your games and edit images. All packed in an eye-friendly dark theme.
+### LibreSprite
+LibreSprite is a free and open source program for creating and animating your sprites. Real-time animation previews. Onion skinning. Multiple sprites can be edited at once. Ready to use palettes, or make your own. Sprites are composed of both layers & frames and more...  
 
 #### Screenshot
-[![](/assets/images/screenshots/pixieditor-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/pixieditor.png)  
+[![](/assets/images/screenshots/libresprite-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/libresprite.png)  
 
 #### Unofficial Builds: Windows ARM64
-[https://github.com/tordona/pixieditor/releases](https://github.com/tordona/pixieditor/releases)  
+[https://github.com/tordona/libresprite/releases](https://github.com/tordona/libresprite/releases)  
 
 #### Official links
-[Website](https://pixieditor.net/) **|** [Releases](https://pixieditor.net/download) **|** [Repo](https://github.com/PixiEditor/PixiEditor)  
+[Website](https://libresprite.github.io/) **|** [Releases](https://libresprite.github.io/#!/downloads) **|** [Repo](https://github.com/LibreSprite/LibreSprite)  
 
 ### Pinta
 Cross-platform bitmap image drawing and editing program inspired by Paint.NET, a similar image editing program which is limited to Microsoft Windows. Pinta has more features than Microsoft Paint. Compared with open-source image editor GIMP, Pinta is simpler and has fewer features.
@@ -152,21 +176,33 @@ Cross-platform bitmap image drawing and editing program inspired by Paint.NET, a
 #### Official links
 [Website](https://www.pinta-project.com/) **|** [Releases](https://www.pinta-project.com/releases/) **|** [Repo](https://github.com/PintaProject/Pinta)  
 
-### LibreSprite
-LibreSprite is a free and open source program for creating and animating your sprites. Real-time animation previews. Onion skinning. Multiple sprites can be edited at once. Ready to use palettes, or make your own. Sprites are composed of both layers & frames and more...  
+### PixiEditor
+A free pixel art editing software. Create beautiful sprites for your games and edit images. All packed in an eye-friendly dark theme.
 
 #### Screenshot
-[![](/assets/images/screenshots/libresprite-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/libresprite.png)  
+[![](/assets/images/screenshots/pixieditor-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/pixieditor.png)  
 
 #### Unofficial Builds: Windows ARM64
-[https://github.com/tordona/libresprite/releases](https://github.com/tordona/libresprite/releases)  
+[https://github.com/tordona/pixieditor/releases](https://github.com/tordona/pixieditor/releases)  
 
 #### Official links
-[Website](https://libresprite.github.io/) **|** [Releases](https://libresprite.github.io/#!/downloads) **|** [Repo](https://github.com/LibreSprite/LibreSprite)  
+[Website](https://pixieditor.net/) **|** [Releases](https://pixieditor.net/download) **|** [Repo](https://github.com/PixiEditor/PixiEditor)  
 
 ---
 
 ## Photo
+
+### darktable
+A photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
+
+#### Screenshot
+[![](/assets/images/screenshots/darktable-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/darktable.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/darktable/releases](https://github.com/tordona/darktable/releases)  
+
+#### Official links
+[Website](https://www.darktable.org/) **|** [Repo](https://github.com/darktable-org/darktable) **|** [Releases](https://www.darktable.org/install/)  
 
 ### RawTherapee
 RawTherapee is a powerful, cross-platform raw photo processing system, released as Free Software (GPLv3). It is designed for developing raw files from a broad range of digital cameras and targeted at users ranging from enthusiast newcomers who wish to broaden their understanding of how digital imaging works to professional photographers.  
@@ -182,19 +218,8 @@ RawTherapee provides a powerful suite of tools for you to produce amazing photos
 #### Official links
 [Website](https://www.rawtherapee.com/) **|** [Releases](https://www.rawtherapee.com/downloads/) **|** [Repo](https://github.com/Beep6581/RawTherapee)  
 
-### darktable
-A photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
-
-#### Screenshot
-[![](/assets/images/screenshots/darktable-thumb.png) ](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/darktable.png)  
-
-#### Unofficial Builds: Windows ARM64
-[https://github.com/tordona/darktable/releases](https://github.com/tordona/darktable/releases)  
-
-#### Official links
-[Website](https://www.darktable.org/) **|** [Repo](https://github.com/darktable-org/darktable) **|** [Releases](https://www.darktable.org/install/)  
-
 ---
+
 ## Trackers
 
 ### FamiStudio
