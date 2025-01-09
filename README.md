@@ -45,6 +45,18 @@ ArcEm is a portable open-source emulator for the Acorn Archimedes. It's capable 
 #### Official links
 [Website[(https://arcem.sourceforge.net/) **|**  [Releases](https://sourceforge.net/projects/arcem/files/arcem/1.50/) **|** [Repo](https://github.com/ArcEm-emu/ArcEm)
 
+### Hades
+Hades is a fully functional emulator for the Nintendo Game Boy Advance. It aims to have a decent balance between speed, usability and accuracy. Hades features multiple post-rendering effects for a better experience, including color correction and an LCD grid effect.
+
+#### Screenshot
+[![](/assets/images/screenshots/hades.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/hades.png)  
+
+#### Unofficial Builds: Windows ARM64
+[https://github.com/tordona/hades/releases](https://github.com/tordona/hades/releases)  
+
+#### Official links
+[Website](https://hades-emu.org/) **|** [Releases](https://github.com/hades-emu/Hades/releases) **|** [Repo](https://github.com/hades-emu/Hades)
+
 ### NanoBoyAdvance
 NanoBoyAdvance is a cycle-accurate Game Boy Advance emulator. It aims to be as accurate as possible, while also offering enhancements such as improved audio quality.
 
