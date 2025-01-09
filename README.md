@@ -43,7 +43,7 @@ ArcEm is a portable open-source emulator for the Acorn Archimedes. It's capable 
 [https://github.com/tordona/win-arm64-binaries/releases/tag/arcem](https://github.com/tordona/win-arm64-binaries/releases/tag/arcem)
 
 #### Official links
-[Website[(https://arcem.sourceforge.net/) **|**  [Releases](https://sourceforge.net/projects/arcem/files/arcem/1.50/) **|** [Repo](https://github.com/ArcEm-emu/ArcEm)
+[Website](https://arcem.sourceforge.net/) **|**  [Releases](https://sourceforge.net/projects/arcem/files/arcem/1.50/) **|** [Repo](https://github.com/ArcEm-emu/ArcEm)
 
 ### FBNeo
 FBNeo, or FinalBurn Neo, is a multi-system arcade emulator designed for retro gaming enthusiasts. It emulates a wide range of classic arcade games and consoles, such as Capcom CPS-1, CPS-2, CPS-3, Neo Geo, and Sega System 16, among others. FBNeo focuses on accurate emulation and high performance, supporting advanced features like netplay, rewinding, and shader effects. It's a continuation of the FinalBurn and FinalBurn Alpha projects, aiming to provide a comprehensive and user-friendly platform for preserving and enjoying vintage games on modern systems.
