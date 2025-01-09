@@ -8,7 +8,7 @@ Software is tested on physical hardware:
 * Samsung Galaxy Book Go (Snapdragon 7c Gen 2)
 
 **Sponsorship / Donations**  
-Please consider sponsorship or hardware donations. These will go to hardware for additional testing and development.
+Please consider [sponsorship](https://github.com/sponsors/tordona) or hardware donations. These will go to hardware for additional testing and development.
 
 Future hardware:
 * Any Device (Snapdragon 7c)
@@ -49,7 +49,7 @@ ArcEm is a portable open-source emulator for the Acorn Archimedes. It's capable 
 FBNeo, or FinalBurn Neo, is a multi-system arcade emulator designed for retro gaming enthusiasts. It emulates a wide range of classic arcade games and consoles, such as Capcom CPS-1, CPS-2, CPS-3, Neo Geo, and Sega System 16, among others. FBNeo focuses on accurate emulation and high performance, supporting advanced features like netplay, rewinding, and shader effects. It's a continuation of the FinalBurn and FinalBurn Alpha projects, aiming to provide a comprehensive and user-friendly platform for preserving and enjoying vintage games on modern systems.
 
 #### Screenshot
-[![](/assets/images/screenshots/fbneo.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/fbneo-thumb.png)  
+[![](/assets/images/screenshots/fbneo-thumb.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/fbneo.png)  
 
 #### Unofficial Builds: Windows ARM64
 [https://github.com/tordona/fbneo/releases](https://github.com/tordona/fbneo/releases)  
@@ -61,7 +61,7 @@ FBNeo, or FinalBurn Neo, is a multi-system arcade emulator designed for retro ga
 Frodo is a portable Commodore 64 emulator that runs on a variety of platforms, with a focus on the exact reproduction of special graphical effects possible on the C64. It was also the world's first Commodore 64 emulator without a “64” in its name. Frodo comes in two flavours: The regular “Frodo” which uses a cycle-exact emulation, and the simplified “Frodo Lite” which is less compatible but runs better on slower machines. 
 
 #### Screenshot
-[![](/assets/images/screenshots/frodo.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/frodo-thumb.png)  
+[![](/assets/images/screenshots/frodo-thumb.png)](https://raw.githubusercontent.com/tordona/tordona.github.io/main/assets/images/screenshots/frodo.png)  
 
 #### Unofficial Builds: Windows ARM64
 [https://github.com/tordona/frodo4/releases](https://github.com/tordona/frodo4/releases)  
